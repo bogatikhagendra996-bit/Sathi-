@@ -1,0 +1,6 @@
+{
+  "name": "SATHI – Find Friends Worldwide",
+  "description": "Connect Nepali and global friends worldwide for cultural exchange, travel companionship, and language learning. Educational prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
